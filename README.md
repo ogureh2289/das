@@ -20,6 +20,7 @@ HTML. С его помощью можно задавать цвета, шриф�
 используется для создания интерактивных элементов, таких как кнопки, формы и анимации.
 # Пример кода
 ## HTML
+``` HTML
 <!-- <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,4 +38,39 @@ HTML. С его помощью можно задавать цвета, шриф�
 <script src="script.js"></script>
 </body>
 </html> -->
+```  
+## **CSS**
+<!-- body {
+font-family: Arial, sans-serif;
+background-color: #f0f0f0;
+margin: 0;
+padding: 0;
+}
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+background-color: #fff;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+color: #333;
+}
+p {
+font-size: 1.2em;
+line-height: 1.6;
+}
+button {
+padding: 10px 20px;
+font-size: 1em;
+color: #fff;
+background-color: #007bff;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+button:hover {
+background-color: #0056b3; 
+} -->
+```
 
